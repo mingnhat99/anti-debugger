@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Anti-Debugger Bypass",
   "version": "1.0",
-  "description": "Bypass common debugger traps and anti-debugging scripts.",
+  "description": "A powerful Chrome extension to bypass common anti-debugging scripts and DevTools traps.",
   "permissions": ["scripting", "storage"],
   "host_permissions": ["<all_urls>"],
   "background": {
