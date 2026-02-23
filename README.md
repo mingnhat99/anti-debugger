@@ -20,9 +20,6 @@
 
 Whether you're a security researcher, a penetration tester, or just trying to inspect elements without being interrupted by infinite `debugger` statements, this extension ensures a smooth debugging experience.
 
-## 🎥 Demo
-
-<video src="./example.mov" controls="controls" width="100%" autoplay loop muted></video>
 
 ## ✨ Features
 
