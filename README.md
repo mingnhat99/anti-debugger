@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Anti-Debugger Bypass
+# <svg width="36" height="36" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-right: 8px;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" fill="#D3F4CD" stroke="#A6E39D" stroke-width="2"/><path d="M9 12l2 2 4-4" stroke="#4D9B52" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/></svg>Anti-Debugger Bypass
 
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://google.com/chrome)
 [![GitHub stars](https://img.shields.io/github/stars/mingnhat99/anti-debugger?style=social)](https://github.com/mingnhat99/anti-debugger/stargazers)

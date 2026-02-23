@@ -70,7 +70,7 @@
             console.table = _ct;
             console.log = _cl;
             console.clear = _cc;
-            console.log("[bypass] DevTools protection disabled. Console restored.");
+            console.log("%c[Anti-Debugger Bypass] DevTools protection disabled. Console restored.", "color: #4D9B52; font-weight: bold;");
         }, 3000);
     });
 })();
