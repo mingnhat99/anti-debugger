@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Anti-Debugger Bypass",
+  "version": "1.0",
+  "description": "Bypass common debugger traps and anti-debugging scripts.",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "js": ["inject.js"],
+      "matches": ["<all_urls>"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
